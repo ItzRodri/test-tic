@@ -1,0 +1,16 @@
+CREATE TABLE clientes (
+    id SERIAL PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    apellido VARCHAR(100) NOT NULL,
+    correo_electronico VARCHAR(255) UNIQUE NOT NULL,
+    telefono VARCHAR(20),
+    direccion TEXT,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE INDEX idx_clientes_nombre_correo 
+ON clientes (nombre, correo_electronico);
+
+GUIA DE PASOS PARA CORRER EL PROYECTO DE NEXTS
+npm i
+npm run dev

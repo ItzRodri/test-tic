@@ -1,0 +1,146 @@
+{
+    "productos": {
+      "lacteos": [
+        {
+          "id": 1,
+          "nombre": "Leche Entera",
+          "precio": 2.50,
+          "descripcion": "Leche entera pasteurizada de 1 litro.",
+          "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+        },
+        {
+          "id": 2,
+          "nombre": "Yogur Natural",
+          "precio": 3.00,
+          "descripcion": "Yogur natural sin azúcar 500ml.",
+          "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+        },
+        {
+            "id": 21,
+            "nombre": "Leche Entera",
+            "precio": 2.50,
+            "descripcion": "Leche entera pasteurizada de 1 litro.",
+            "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+          },
+          {
+            "id": 22,
+            "nombre": "Leche Entera",
+            "precio": 2.50,
+            "descripcion": "Leche entera pasteurizada de 1 litro.",
+            "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+          },
+          {
+            "id": 23,
+            "nombre": "Leche Entera",
+            "precio": 2.50,
+            "descripcion": "Leche entera pasteurizada de 1 litro.",
+            "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+          },
+          {
+            "id": 24,
+            "nombre": "Leche Entera",
+            "precio": 2.50,
+            "descripcion": "Leche entera pasteurizada de 1 litro.",
+            "imagen": "https://pilandina.com.bo/wp-content/uploads/2019/06/Yogurt-Frutado-con-frutilla-en-trozos-750g.jpg"
+          }
+      ],
+      "cereales": [
+        {
+          "id": 3,
+          "nombre": "Avena Instantánea",
+          "precio": 4.00,
+          "descripcion": "Avena instantánea sin azúcar 500g.",
+          "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+        },
+        {
+          "id": 4,
+          "nombre": "Granola Mixta",
+          "precio": 5.50,
+          "descripcion": "Granola con frutos secos y miel 1kg.",
+          "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+        },
+        {
+            "id": 33,
+            "nombre": "Avena Instantánea",
+            "precio": 4.00,
+            "descripcion": "Avena instantánea sin azúcar 500g.",
+            "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+          },
+          {
+            "id": 34,
+            "nombre": "Avena Instantánea",
+            "precio": 4.00,
+            "descripcion": "Avena instantánea sin azúcar 500g.",
+            "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+          },
+          {
+            "id": 35,
+            "nombre": "Avena Instantánea",
+            "precio": 4.00,
+            "descripcion": "Avena instantánea sin azúcar 500g.",
+            "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+          },
+          {
+            "id": 36,
+            "nombre": "Avena Instantánea",
+            "precio": 4.00,
+            "descripcion": "Avena instantánea sin azúcar 500g.",
+            "imagen": "https://amarket.com.bo/cdn/shop/files/7613287354150_700x700.jpg?v=1712343985"
+          }
+      ],
+      "pickeos": [
+        {
+          "id": 5,
+          "nombre": "Chips de Plátano",
+          "precio": 2.00,
+          "descripcion": "Chips de plátano crocantes 200g.",
+          "imagen": "https://farmacorp.com/cdn/shop/files/7771259690139_590x590.jpg?v=1714440823"
+        },
+        {
+            "id": 10,
+            "nombre": "Chips de Plátano",
+            "precio": 2.00,
+            "descripcion": "Chips de plátano crocantes 200g.",
+            "imagen": "https://farmacorp.com/cdn/shop/files/7771259690139_590x590.jpg?v=1714440823"
+          },
+          {
+            "id": 12,
+            "nombre": "Chips de Plátano",
+            "precio": 2.00,
+            "descripcion": "Chips de plátano crocantes 200g.",
+            "imagen": "https://farmacorp.com/cdn/shop/files/7771259690139_590x590.jpg?v=1714440823"
+          },
+          {
+            "id": 13,
+            "nombre": "Chips de Plátano",
+            "precio": 2.00,
+            "descripcion": "Chips de plátano crocantes 200g.",
+            "imagen": "https://farmacorp.com/cdn/shop/files/7771259690139_590x590.jpg?v=1714440823"
+          },
+        {
+          "id": 6,
+          "nombre": "Maní Japones",
+          "precio": 3.50,
+          "descripcion": "Maní japonés con cobertura crujiente 300g.",
+          "imagen": "https://farmacorp.com/cdn/shop/files/7771259690139_590x590.jpg?v=1714440823"
+        }
+      ],
+      "bebidas": [
+        {
+          "id": 7,
+          "nombre": "Jugo de Naranja",
+          "precio": 3.00,
+          "descripcion": "Jugo de naranja natural 1 litro.",
+          "imagen": "https://www.coca-cola.com/content/dam/onexp/bo/es/brands/coca-cola/new/coca_cola_3l.jpg"
+        },
+        {
+          "id": 8,
+          "nombre": "Té Verde",
+          "precio": 2.75,
+          "descripcion": "Botella de té verde sin azúcar 500ml.",
+          "imagen": "https://www.coca-cola.com/content/dam/onexp/bo/es/brands/coca-cola/new/coca_cola_3l.jpg"
+        }
+      ]
+    }
+  }
+  
